@@ -11,7 +11,6 @@ Below is the syllabus from Spring 2027.
 
 Please see [last year's syllabus](https://cbb7520b26.gersteinlab.org/syllabus) (with slide packs at the bottom) for previews for this year's lectures, which will be slightly different. For this year, an updated slide pack will be posted after the lecture. (If it is substantially different from last year, an updated video will also be posted.) Video recordings for this year's lectures can be found in the Media Library tab in Canvas.
 
-TO BE UPDATED ONCE 2027 SYLLABUS IS AVAILABLE
 |      | Topic                                                                                                 | 2026 Spring's Lecture | [2025 Spring's Lecture](https://cbb752b25.gersteinlab.org/syllabus)      | Comment                                                                                                                 |
 | ---- | ----------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
 | 1/12 | \*YALE\* Spring term classes begin, 8.20 a.m.                                                         |                       |                                                                          |                                                                                                                         |
