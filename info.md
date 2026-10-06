@@ -39,7 +39,7 @@ Consultation is available UPON REQUEST or according to times stipulated by the i
 | Xu Ku   | XK  | Bass 437	| k.xu (at) yale.edu |
 | Yuan Gao	| YG  | Bass 437	| yuan.gao.yg395 (at) yale.edu |
 | Yunyang Li	| YL  | Bass 341	| yunyang.li (at) yale.edu |
-| Xin xin 	| XX  | Bass 437	| xin.xin (at) yale.edu |
+| Xin xin 	| XIN  | Bass 437	| xin.xin (at) yale.edu |
 
 ## Piazza
 This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and the TAs. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. 
