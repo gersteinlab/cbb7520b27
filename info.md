@@ -36,10 +36,10 @@ Consultation is available UPON REQUEST or according to times stipulated by the i
 | Name | Abbr | Office | Email |
 | --- | --- | --- | --- |
 | Anna Su	| AS  | Bass 341	| anna.su (at) yale.edu |
-| Michelle Yu   | MY  | 100 College St (9/F)	| michelle.yu (at) yale.edu |
-| Suchen Zheng	| SZ  | 100 College St (9/F)	| suchen.zheng (at) yale.edu |
-| Weihao Zhao	| WZ  | Bass 437	| zhao.weihao (at) yale.edu |
-| Zhiyuan Chu 	| ZC  | Bass 437	| zhiyuan.chu (at) yale.edu |
+| Xu Ku   | XK  | Bass 437	| k.xu (at) yale.edu |
+| Yuan Gao	| YG  | Bass 437	| yuan.gao.yg395 (at) yale.edu |
+| Yunyang Li	| YL  | Bass 341	| yunyang.li (at) yale.edu |
+| Xin xin 	| XX  | Bass 437	| xin.xin (at) yale.edu |
 
 ## Piazza
 This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and the TAs. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. 
@@ -50,7 +50,7 @@ Find our class page at: [Link to Piazza](https://piazza.com/yale/spring2026/mbb3
 ## General Course Information 
 
 ### First Meeting
-The first lecture will be held on Mon. Jan 12th, 2026. 
+The first lecture will be held on Mon. Jan 20th, 2027. 
 
 ### Grading Policy
 We expect that this year the weighting scheme will be to a first approximation:
