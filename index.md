@@ -64,7 +64,7 @@ Students should have:
 - A basic knowledge of biochemistry and molecular biology.
 - A knowledge of basic quantitative concepts, such as single variable calculus, basic probability & statistics, and basic programming skills.
 
-These can be fulfilled by: MBB 3010 and Mathematics 1150 or permission of the instructor.
+These can be fulfilled by: MB&B 2000 and Mathematics 2220 and S&DS 1230 (or CPSC 2230) or permission of the instructor.
 
 ### Class materials
 
