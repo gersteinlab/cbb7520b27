@@ -61,10 +61,12 @@ If you are taking the class, please fill this [Course Survey](https://forms.gle/
 The course is keyed towards CBB graduate students as well as advanced undergraduates and graduate students wishing to learn about types of large-scale quantitative analysis that whole-genome sequencing and forms of large-scale biological data will make possible. It would also be suitable for students from other fields such as computer science, statistics or physics wanting to learn about an important new biological application for computation.
 
 Students should have:
-- A basic knowledge of biochemistry and molecular biology.
-- A knowledge of basic quantitative concepts, such as single variable calculus, basic probability & statistics, and basic programming skills.
+- Biochemistry knowledge to know DNA structure, proteins, and pathways
+- Mathematics up to linear algebra with matrices, single variable calculus and basic probability & statistics
+- Programming in scripting language such as R or Python
 
 These can be fulfilled by: MB&B 2000 and Mathematics 2220 and S&DS 1230 (or CPSC 2230) or permission of the instructor.
+
 
 ### Class materials
 
