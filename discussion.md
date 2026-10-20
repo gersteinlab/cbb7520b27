@@ -5,23 +5,17 @@ layout: page
 
 ## Weekly Discussion Sections & Readings
 
-Starting the second week of class. No sections on Jan 15 and 16.
+Starting the second week of class. No sections in the first week.
 
 ### Time and Location
 
-<!-- | Session | Time | Location | Note |
-| --- | --- | --- | --- |
-| Section 1 | Mon 11am-12am | YSB 352 | ZC |
-| Section 2 | Thur 12-1pm  | YSB 352 | SZ |
-| Section 3 | Thur 1-2pm | YSB 352 | MY |
-| Section 4 | Fri 10-11am  | YSB 352 | DB | -->
-
-| Session | Time | Location | 
+| Session | Time | Location | TF
 | --- | --- | --- | 
-| Section 1 | Thursday 11:35-12:25  | WTS B41 |
-| Section 2 | Thursday 15:30-16:20  | YK220 003 | 
-| Section 3 | Thursday 19:00-19:50| WTS B62 | 
-| Section 4 | Friday 10:30-11:20| YSB 253 |
+| Section 1 | Wednesday 19:00-19:50  | WTS B41 | Yunyang Li
+| Section 1 | Thursday 11:35-12:25  | WTS B41 | Ke Xu
+| Section 2 | Thursday 15:30-16:20  | YK220 003 | Yuan Gao
+| Section 3 | Thursday 19:00-19:50| WTS B62 | Anna Su
+| Section 4 | Friday 1:30-14:20| YSB 253 | Xin Xin
 
 
 ### Format
