@@ -10,7 +10,7 @@ Starting the second week of class. No sections in the first week.
 ### Time and Location
 
 | Session | Time | Location | TF
-| --- | --- | --- | 
+| --- | --- | --- | --- |
 | Section 1 | Wednesday 19:00-19:50  | WTS B41 | Yunyang Li
 | Section 1 | Thursday 11:35-12:25  | WTS B41 | Ke Xu
 | Section 2 | Thursday 15:30-16:20  | YK220 003 | Yuan Gao
