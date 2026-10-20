@@ -119,7 +119,7 @@ Students may use AI tools for the following purposes:
 * Exploring different perspectives or approaches to a topic.
 * Developing outlines or rough drafts for essays or presentations.
 3. Efficiency Tools:
-* Managing references, citations, and bibliographies.
+* Formatting references, citations, and bibliographies. Not allowed for generating references for papers that don’t exist.
 
 
 #### Prohibited Uses of AI Tools
