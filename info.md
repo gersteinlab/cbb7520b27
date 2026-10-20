@@ -57,14 +57,13 @@ We expect that this year the weighting scheme will be to a first approximation:
 
 | Category	| % of Total Grade |
 |---|---|
-| Quiz 1 |	10% |
-| Quiz 2 |	10% |
-| Lecture Summary |	10% |
-| Discussion Section |	18% |
-| Homeworks	| 31% |
-| Final Project	| 21% |
-
-
+| Test 1 |	10% |
+| Test 2 |	10% |
+| TBD - In Class Pop Quiz |	10% |
+| Discussion Section |	15% |
+| Homeworks	| 30% |
+| Final Project	| 20% |
+| Extra credit: lecture summary for TA lectures | 5%
 
 ## Useful Background Books & Websites
 
